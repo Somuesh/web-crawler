@@ -1,0 +1,29 @@
+{
+  "name": "web-crawler",
+  "version": "1.0.0",
+  "description": "using nodejs to build our own web crawler",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Somuesh/web-crawler.git"
+  },
+  "keywords": [
+    "web",
+    "crawler",
+    "scraper",
+    "analysis"
+  ],
+  "author": "Somesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Somuesh/web-crawler/issues"
+  },
+  "homepage": "https://github.com/Somuesh/web-crawler#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
